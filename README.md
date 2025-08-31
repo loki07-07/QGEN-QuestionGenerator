@@ -296,8 +296,7 @@ Quality Score: 78.5%
 
 ![Watch the demo](QGEN_Output_1.gif)
 
----
 
-**Built with ❤️ for educational technology and intelligent content generation**
+
 
 

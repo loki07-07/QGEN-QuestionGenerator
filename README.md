@@ -79,7 +79,7 @@ The application will automatically download required NLTK data on first run:
 ### Running the Application
 
 ```bash
-streamlit run app.py
+streamlit run sapp.py
 ```
 
 ### Basic Workflow
@@ -146,10 +146,9 @@ Questions are scored based on:
 ## 🏛️ Project Structure
 
 ```
-qgen/
-├── app.py                 # Main Streamlit application
-├── NLPP/
-│   └── extractor.py      # Article extraction and NER utilities
+NLPP/
+├── sapp.py                 # Main Streamlit application
+├── extractor.py      # Article extraction and NER utilities
 ├── requirements.txt      # Python dependencies
 ├── README.md            # This file
 └── models/              # Cached model files (auto-generated)
@@ -257,9 +256,6 @@ Models are automatically downloaded and cached on first use:
 4. Push to branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🆘 Support
 
@@ -300,6 +296,3 @@ Quality Score: 78.5%
 **Built with ❤️ for educational technology and intelligent content generation**
 
 
-
-
-con

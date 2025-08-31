@@ -294,7 +294,10 @@ Quality Score: 78.5%
 ---
 ## Demo Video
 
-[Watch the demo](QGEN_Output_1.mp4)
+![Watch the demo](QGEN_Output_1.gif)
+
+---
+
 **Built with ❤️ for educational technology and intelligent content generation**
 
 
